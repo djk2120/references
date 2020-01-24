@@ -1,0 +1,52 @@
+
+[1] Novick et al. 2019
+       - Beyond soil water potential: An expanded view on isohydricity ...
+       - Plant, Cell, & Environment
+       > accessed May 6, 2019
+       {introduction}
+       - notes that gs and psi_s can be uncoupled
+       - how do VPD and AL (as drivers) compare to psi_s?
+       - when does sigma inform hydrological predictions?
+       {modeling framework}
+       - develops framework for assessing psi_l and g_s sensitivities
+       {results}
+       - "across sites, the influence of the VPD terms alone is sufficient to 
+          completely decouple the relationship between the apparent sensitivities"
+       
+
+       papers to read:
+       . Martinez-Vilalta [2017,PCE, 10.1111/pce.12846]
+
+       papers to check out:
+       . Matheny [2017,Ecohydrology, 10.1002/eco.1815]
+
+
+[2] Martinez-Vilalta and Garcia-Forner 2017
+       - Water potential regulation, stomatal behaviour and ...
+       - Plant, Cell, & Environment
+       > accessed May 21, 2019
+       {introduction}
+       -"Precisely because isohydric and anisohydric species operate at different 
+	water potentials, the fact that stomata are more sensitive to declining ΨL in 
+	isohydric species does not imply that they will close earlier during drought. 
+	The relevant question becomes whether the stomata of isohydric species are 
+	more sensitive relative to the water potentials at which they operate, and 
+	therefore constrain assimilation further in these species."
+
+       papers to check out:
+       . Maseda & Fernández 2006
+       . McDowell et al. (2008)
+       . Díaz et al. 2016
+       . Donovan et al. 2003
+       . Nardini et al. 2016
+       . Combe et al. 2016
+
+[3] Berg et al. 2017
+       - Divergent surface and total soil moisture projections ...
+       - GRL
+       > read on May 24, 2019
+
+
+
+
+

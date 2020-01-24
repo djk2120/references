@@ -1,0 +1,52 @@
+
+[1] Oren et al. 2019
+       - Survey and synthesis of [...] stomatal conductance ...
+       - Plant, Cell, & Environment
+       > accessed June 4, 2019
+       {introduction}
+       - how does gs respond to increasing D?
+       {}
+       - looking at gs = -m lnD + b
+       - some interesting stuff on conditional sampling, autocorrelation
+       {Estimating GSi and GS}
+       - some interesting stuff on relating sap flux to gs
+       {Theoretical analysis of stomatal sensitivity}
+       - asking what stomatal behavior is required to regulate psi_l
+       - interesting to think about stomatal sensitivity for my stuff
+
+       papers to read:
+       . 
+
+       papers to check out:
+       . Arneth et al. 1996
+       . Monteith (1995)
+       . Jarvis (1976)
+       . Kostner 1992
+       . Granier 1996
+       . Meinzer 1993 (Ds vs. D)
+
+[2] Meinzer 2016
+       - Mapping ‘hydroscapes’ along the iso- to anisohydric continuum ...
+       - Ecology Letters
+       > accessed June 26, 2019
+       {introduction}
+       - it's the turgor, stupid
+       - doesn't like that \sigma requires so many obs
+       {methods}
+       - expose various species to experimental drought
+       - measure \psi predawn and midday
+       - also PV curves
+
+
+       papers to read:
+       . 
+
+       papers to check out:
+       . Tardieu & Simonneau 1998
+       . Domec & Johnson 2012
+       . Klein 2014
+       . Skelton et al. 2015
+       . Bartlett et al. (2012a)
+       . 
+       . 
+

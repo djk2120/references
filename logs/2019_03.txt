@@ -1,0 +1,28 @@
+
+[1] Zhou,Sha et al. 2019
+       - Projected increases in intensity, frequency, and terrestrial carbon costs of compound drought and aridity events
+       - Science Advances
+       > accessed: March 18, 2019
+       * 
+
+[2] Feng et al. 2019
+       - Beyond isohydricity: The role of environmental variability in determining plant drought responses
+       - Plant, Cell, & Environment
+       > accessed: March 19, 2019
+       * show that wet oaks and dry oaks have different isohydricity
+       * left a lot of meat on the bone, so to speak
+       & doi.org/10.1111/ele.13139  (Feng et al. 2018)
+       & doi.org/10.1111/gcb.13640  (Feng et al. 2017)
+
+[3] Williams,Karina et al. 2019
+       - How can the First ISLSCP Field Experiment contribute to present-day efforts to evaluate water stress in JULESv5.0?
+       - GMD
+       > accessed March 20, 2019
+       * sets up FIFE as a JULES 'gold site'
+
+[4] Li, Ximeng et al. 2019
+       - More than iso/anisohydry...
+       - Functional Ecology
+       > accessed March 26, 2019
+       * 
+       + Meinzer et al. 2016 (Ecology Letters)
